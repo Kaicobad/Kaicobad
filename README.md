@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 👨‍💻 ABOUNT ME:
 Software Engineer | Ha-Meem Group<br>Dhaka, Bangladesh<br>kaikobad.kaikobad326@gmail.com<br>[Twitter](https://twitter.com/kaicobad) | @kaicobad
 
 ## 🌐 Socials:
@@ -8,7 +8,7 @@ Software Engineer | Ha-Meem Group<br>Dhaka, Bangladesh<br>kaikobad.kaikobad326@g
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kaicobad-Hassan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaicobad) 
 
-# 💻 Tech Stack:
+# 💻 TECH STACK:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
@@ -26,7 +26,7 @@ Software Engineer | Ha-Meem Group<br>Dhaka, Bangladesh<br>kaikobad.kaikobad326@g
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GITHUB STATS:
 ![](https://github-readme-stats.vercel.app/api?username=kaicobad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaicobad&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicobad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
