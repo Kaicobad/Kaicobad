@@ -32,6 +32,6 @@ Software Engineer | Ha-Meem Group<br>Dhaka, Bangladesh<br>kaikobad.kaikobad326@g
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicobad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaicobad&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kaicobad&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
