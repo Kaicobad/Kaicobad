@@ -1,5 +1,5 @@
 # 👨‍💻 ABOUNT ME:
-Software Engineer | Ha-Meem Group<br>Dhaka, Bangladesh<br>kaikobad.kaikobad326@gmail.com<br>[Twitter](https://twitter.com/kaicobad) | @kaicobad
+Software Engineer | A & E (American And Efrid Bangladesh Ltd.)<br>Dhaka, Bangladesh<br>kaikobad.kaikobad326@gmail.com<br>[Twitter](https://twitter.com/kaicobad) | @kaicobad
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kaikobad.hassan) 
