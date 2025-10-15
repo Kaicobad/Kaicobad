@@ -78,13 +78,13 @@ const kaicobad = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaicobad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaicobad&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaicobad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaicobad&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicobad&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicobad&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaicobad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaicobad&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
